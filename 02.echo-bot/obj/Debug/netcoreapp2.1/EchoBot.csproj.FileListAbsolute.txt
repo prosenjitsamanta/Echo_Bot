@@ -1,0 +1,15 @@
+C:\Prosenjit\BOT_Practice\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.csprojAssemblyReference.cache
+C:\Prosenjit\BOT_Practice\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.csproj.CoreCompileInputs.cache
+C:\Prosenjit\BOT_Practice\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.RazorAssemblyInfo.cache
+C:\Prosenjit\BOT_Practice\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.RazorAssemblyInfo.cs
+C:\Prosenjit\BOT_Practice\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.AssemblyInfoInputs.cache
+C:\Prosenjit\BOT_Practice\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.AssemblyInfo.cs
+C:\Prosenjit\BOT_Practice\02.echo-bot\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Prosenjit\BOT_Practice\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.deps.json
+C:\Prosenjit\BOT_Practice\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.runtimeconfig.json
+C:\Prosenjit\BOT_Practice\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.runtimeconfig.dev.json
+C:\Prosenjit\BOT_Practice\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.dll
+C:\Prosenjit\BOT_Practice\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.pdb
+C:\Prosenjit\BOT_Practice\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.RazorTargetAssemblyInfo.cache
+C:\Prosenjit\BOT_Practice\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.dll
+C:\Prosenjit\BOT_Practice\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.pdb
